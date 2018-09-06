@@ -6,6 +6,8 @@
 
 body {
   padding-top: 54px;
+  background: url("/static/img/index.jpeg") 50% 0 no-repeat fixed;
+     
 }
 
 @media (min-width: 992px) {
